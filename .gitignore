@@ -1,0 +1,15 @@
+# compiled classes and build output
+*.class
+*.jar
+out/
+bin/
+
+# save files written by the game
+*.txt
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
